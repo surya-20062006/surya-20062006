@@ -45,8 +45,8 @@ CGPA: 8.00
 
 ## 📫 Contact
 
-* Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* LinkedIn: https://linkedin.com/in/yourname
+* Email: [suryavengadesh20@gmail.com](mailto:yourmail@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/surya-v-8a193a295
 
 ---
 
