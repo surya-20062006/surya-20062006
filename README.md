@@ -6,12 +6,6 @@
 
 <br/>
 
-<!-- Animated profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=surya-20062006&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
-&nbsp;
-
-</div>
-
 ---
 
 
