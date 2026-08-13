@@ -44,25 +44,6 @@ Git • GitHub • Jupyter Notebook • Streamlit
 
 ## 🔥 Featured Projects
 
-### 🌾 UzhavAI — Agentic AI Farming Assistant
-
-An Agentic AI application designed to assist farmers through AI-powered tools and multilingual interaction.
-
-**Key Features**
-
-* Weather updates
-* Mandi price assistance
-* Crop disease support
-* Government scheme recommendations
-* LLM-powered tool calling
-* Multilingual Streamlit application
-* SQLite authentication and chat history
-
-**Tech:** LangChain • LangGraph • LLMs • Streamlit • SQLite
-
-[View Project](YOUR_REPOSITORY_LINK)
-
----
 
 ### 📄 TalentLens — AI Resume Analyzer
 
