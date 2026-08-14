@@ -1,6 +1,6 @@
 # Hi, I'm Surya 👋
 
-### AI & Data Science Student | Machine Learning | Agentic AI
+### AI & Data Science Student | Machine Learning | AI & LLM 
 
 I'm a B.Tech student specializing in **Artificial Intelligence and Data Science**, interested in building practical AI and machine learning applications using Python.
 
@@ -28,13 +28,13 @@ Python
 
 Scikit-learn • Pandas • NumPy • Matplotlib
 
-### AI / Agentic AI
+### AI / LLM
 
-LangChain • LangGraph • LLMs • Tool Calling
+LangChain  • LLMs • Tool Calling
 
 ### Database
 
-MySQL • SQLite
+MySQL
 
 ### Development & Tools
 
